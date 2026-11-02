@@ -60,5 +60,4 @@ jobs:
           app-name: crm-front-prod-ind
           slot-name: Production
           package: .
-          startup-command: npm start
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FAC0173EA77E4A3E89A0AD33D576FACF }}
